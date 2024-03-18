@@ -560,7 +560,6 @@ CMakeFiles/exercise3.dir/state_machine.cpp.o: ../state_machine.cpp \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  ../state_machine.h \
   /opt/systemc/include/systemc.h \
   /usr/include/c++/11/cassert \
   /usr/include/assert.h \
@@ -756,7 +755,8 @@ CMakeFiles/exercise3.dir/state_machine.cpp.o: ../state_machine.cpp \
   /usr/include/c++/11/bits/enable_special_members.h \
   /usr/include/c++/11/bits/node_handle.h \
   /usr/include/c++/11/bits/unordered_map.h \
-  /usr/include/c++/11/bits/erase_if.h
+  /usr/include/c++/11/bits/erase_if.h \
+  ../state_machine.h
 
 CMakeFiles/exercise3.dir/stimuli.cpp.o: ../stimuli.cpp \
   /usr/include/stdc-predef.h \
